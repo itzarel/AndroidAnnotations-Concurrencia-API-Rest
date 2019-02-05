@@ -1,0 +1,614 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Openwebinar AndAn",
+		"_postman_id": "037e8f44-9fd2-b6ab-a29d-94d928353934",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "AndAnn - Count All",
+			"request": {
+				"url": "http://localhost:8080/avengers/countAll/",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*",
+						"description": ""
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br",
+						"description": ""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9,es-ES;q=0.8,es;q=0.7",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Host",
+						"value": "localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Origin",
+						"value": "http://localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Referer",
+						"value": "http://localhost:7001/web-eforms/screen/eforms/KA116-05AA186D/e-2019-1-ka116/context",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Cookie",
+						"value": "JSESSIONID=FwmtUkpoeOGirNnvqRX7RwhuoEXWVIhgSBsePVF9E83tGH56xXpU!1006134096; ADMINCONSOLESESSION=-amtUUbH3lq4TkgKr1MfnaZ4fd-u445h4KygfTK1z_lYBA-lZv0Z!1006134096",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic d2VibG9naWM6MTIzNG1yYWY=",
+						"description": ""
+					},
+					{
+						"key": "X-Requested-With",
+						"value": "XMLHttpRequest",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "AndAnn - Get All",
+			"request": {
+				"url": "http://localhost:8080/avengers/getAll/",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*",
+						"description": ""
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br",
+						"description": ""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9,es-ES;q=0.8,es;q=0.7",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Host",
+						"value": "localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Origin",
+						"value": "http://localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Referer",
+						"value": "http://localhost:7001/web-eforms/screen/eforms/KA116-05AA186D/e-2019-1-ka116/context",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Cookie",
+						"value": "JSESSIONID=FwmtUkpoeOGirNnvqRX7RwhuoEXWVIhgSBsePVF9E83tGH56xXpU!1006134096; ADMINCONSOLESESSION=-amtUUbH3lq4TkgKr1MfnaZ4fd-u445h4KygfTK1z_lYBA-lZv0Z!1006134096",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic d2VibG9naWM6MTIzNG1yYWY=",
+						"description": ""
+					},
+					{
+						"key": "X-Requested-With",
+						"value": "XMLHttpRequest",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "AndAnn - Get All By Lang",
+			"request": {
+				"url": "http://localhost:8080/avengers/getAll/SP",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*",
+						"description": ""
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br",
+						"description": ""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9,es-ES;q=0.8,es;q=0.7",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Host",
+						"value": "localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Origin",
+						"value": "http://localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Referer",
+						"value": "http://localhost:7001/web-eforms/screen/eforms/KA116-05AA186D/e-2019-1-ka116/context",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Cookie",
+						"value": "JSESSIONID=FwmtUkpoeOGirNnvqRX7RwhuoEXWVIhgSBsePVF9E83tGH56xXpU!1006134096; ADMINCONSOLESESSION=-amtUUbH3lq4TkgKr1MfnaZ4fd-u445h4KygfTK1z_lYBA-lZv0Z!1006134096",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic d2VibG9naWM6MTIzNG1yYWY=",
+						"description": ""
+					},
+					{
+						"key": "X-Requested-With",
+						"value": "XMLHttpRequest",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "AndAn - Get One",
+			"request": {
+				"url": "http://localhost:8080/avengers/get/1",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*",
+						"description": ""
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br",
+						"description": ""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9,es-ES;q=0.8,es;q=0.7",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Host",
+						"value": "localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Origin",
+						"value": "http://localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Referer",
+						"value": "http://localhost:7001/web-eforms/screen/eforms/KA116-05AA186D/e-2019-1-ka116/context",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Cookie",
+						"value": "JSESSIONID=FwmtUkpoeOGirNnvqRX7RwhuoEXWVIhgSBsePVF9E83tGH56xXpU!1006134096; ADMINCONSOLESESSION=-amtUUbH3lq4TkgKr1MfnaZ4fd-u445h4KygfTK1z_lYBA-lZv0Z!1006134096",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic d2VibG9naWM6MTIzNG1yYWY=",
+						"description": ""
+					},
+					{
+						"key": "X-Requested-With",
+						"value": "XMLHttpRequest",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "AndAn - Delete One",
+			"request": {
+				"url": "http://localhost:8080/avengers/delete/100",
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*",
+						"description": ""
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br",
+						"description": ""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9,es-ES;q=0.8,es;q=0.7",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Host",
+						"value": "localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Origin",
+						"value": "http://localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Referer",
+						"value": "http://localhost:7001/web-eforms/screen/eforms/KA116-05AA186D/e-2019-1-ka116/context",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Cookie",
+						"value": "JSESSIONID=FwmtUkpoeOGirNnvqRX7RwhuoEXWVIhgSBsePVF9E83tGH56xXpU!1006134096; ADMINCONSOLESESSION=-amtUUbH3lq4TkgKr1MfnaZ4fd-u445h4KygfTK1z_lYBA-lZv0Z!1006134096",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic d2VibG9naWM6MTIzNG1yYWY=",
+						"description": ""
+					},
+					{
+						"key": "X-Requested-With",
+						"value": "XMLHttpRequest",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "AndAn - Set One",
+			"request": {
+				"url": "http://localhost:8080/avengers/setAvenger",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*",
+						"description": ""
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br",
+						"description": ""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9,es-ES;q=0.8,es;q=0.7",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Host",
+						"value": "localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Origin",
+						"value": "http://localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Referer",
+						"value": "http://localhost:7001/web-eforms/screen/eforms/KA116-05AA186D/e-2019-1-ka116/context",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Cookie",
+						"value": "JSESSIONID=FwmtUkpoeOGirNnvqRX7RwhuoEXWVIhgSBsePVF9E83tGH56xXpU!1006134096; ADMINCONSOLESESSION=-amtUUbH3lq4TkgKr1MfnaZ4fd-u445h4KygfTK1z_lYBA-lZv0Z!1006134096",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic d2VibG9naWM6MTIzNG1yYWY=",
+						"description": ""
+					},
+					{
+						"key": "X-Requested-With",
+						"value": "XMLHttpRequest",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"id\": 100,\n    \"lang\": \"SP\",\n    \"name\": \"Iron Pikachu\",\n    \"actor\": \"Pikachu\",\n    \"description\": \"Este es el mejor traje creado en la historia\",\n    \"urlimage\": \"https://pre00.deviantart.net/3d19/th/pre/i/2018/242/1/2/iron_pikachu_by_13beetlebox-dcll29y.jpg\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "AndAn - Change One",
+			"request": {
+				"url": "http://localhost:8080/avengers/change/100",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*",
+						"description": ""
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br",
+						"description": ""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9,es-ES;q=0.8,es;q=0.7",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Host",
+						"value": "localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Origin",
+						"value": "http://localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Referer",
+						"value": "http://localhost:7001/web-eforms/screen/eforms/KA116-05AA186D/e-2019-1-ka116/context",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Cookie",
+						"value": "JSESSIONID=FwmtUkpoeOGirNnvqRX7RwhuoEXWVIhgSBsePVF9E83tGH56xXpU!1006134096; ADMINCONSOLESESSION=-amtUUbH3lq4TkgKr1MfnaZ4fd-u445h4KygfTK1z_lYBA-lZv0Z!1006134096",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic d2VibG9naWM6MTIzNG1yYWY=",
+						"description": ""
+					},
+					{
+						"key": "X-Requested-With",
+						"value": "XMLHttpRequest",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"actor\": \"Pichu\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "AndAn - Get By Name",
+			"request": {
+				"url": "http://localhost:8080/avengers/getName/EN/Iron Man",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*",
+						"description": ""
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br",
+						"description": ""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9,es-ES;q=0.8,es;q=0.7",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Host",
+						"value": "localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Origin",
+						"value": "http://localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Referer",
+						"value": "http://localhost:7001/web-eforms/screen/eforms/KA116-05AA186D/e-2019-1-ka116/context",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Cookie",
+						"value": "JSESSIONID=FwmtUkpoeOGirNnvqRX7RwhuoEXWVIhgSBsePVF9E83tGH56xXpU!1006134096; ADMINCONSOLESESSION=-amtUUbH3lq4TkgKr1MfnaZ4fd-u445h4KygfTK1z_lYBA-lZv0Z!1006134096",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic d2VibG9naWM6MTIzNG1yYWY=",
+						"description": ""
+					},
+					{
+						"key": "X-Requested-With",
+						"value": "XMLHttpRequest",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "AndAn - Get By Actor",
+			"request": {
+				"url": "http://localhost:8080/avengers/getActor/SP/Chris Evans",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*",
+						"description": ""
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br",
+						"description": ""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9,es-ES;q=0.8,es;q=0.7",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Host",
+						"value": "localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Origin",
+						"value": "http://localhost:8080",
+						"description": ""
+					},
+					{
+						"key": "Referer",
+						"value": "http://localhost:7001/web-eforms/screen/eforms/KA116-05AA186D/e-2019-1-ka116/context",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Cookie",
+						"value": "JSESSIONID=FwmtUkpoeOGirNnvqRX7RwhuoEXWVIhgSBsePVF9E83tGH56xXpU!1006134096; ADMINCONSOLESESSION=-amtUUbH3lq4TkgKr1MfnaZ4fd-u445h4KygfTK1z_lYBA-lZv0Z!1006134096",
+						"description": "",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic d2VibG9naWM6MTIzNG1yYWY=",
+						"description": ""
+					},
+					{
+						"key": "X-Requested-With",
+						"value": "XMLHttpRequest",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

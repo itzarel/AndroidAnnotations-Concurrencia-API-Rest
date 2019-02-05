@@ -1,0 +1,7 @@
+/home/openwebinar/Documentos/AndroidAnnotations/3.AndroidAnnotations_Concurrencia_y_API_Rest/3.API_Rest/3.1.Elaboracion_del_API/openwebinar_mavel/app-rest-api/src/main/java/openwebinar/marvel/app/services/AvengerService.java
+/home/openwebinar/Documentos/AndroidAnnotations/3.AndroidAnnotations_Concurrencia_y_API_Rest/3.API_Rest/3.1.Elaboracion_del_API/openwebinar_mavel/app-rest-api/src/main/java/openwebinar/marvel/app/domain/Avenger.java
+/home/openwebinar/Documentos/AndroidAnnotations/3.AndroidAnnotations_Concurrencia_y_API_Rest/3.API_Rest/3.1.Elaboracion_del_API/openwebinar_mavel/app-rest-api/src/main/java/openwebinar/marvel/app/dto/AvengerDTO.java
+/home/openwebinar/Documentos/AndroidAnnotations/3.AndroidAnnotations_Concurrencia_y_API_Rest/3.API_Rest/3.1.Elaboracion_del_API/openwebinar_mavel/app-rest-api/src/main/java/openwebinar/marvel/app/services/AvengerServiceImpl.java
+/home/openwebinar/Documentos/AndroidAnnotations/3.AndroidAnnotations_Concurrencia_y_API_Rest/3.API_Rest/3.1.Elaboracion_del_API/openwebinar_mavel/app-rest-api/src/main/java/openwebinar/marvel/app/repositories/AvengerRepository.java
+/home/openwebinar/Documentos/AndroidAnnotations/3.AndroidAnnotations_Concurrencia_y_API_Rest/3.API_Rest/3.1.Elaboracion_del_API/openwebinar_mavel/app-rest-api/src/main/java/openwebinar/marvel/app/MyApiRestApplication.java
+/home/openwebinar/Documentos/AndroidAnnotations/3.AndroidAnnotations_Concurrencia_y_API_Rest/3.API_Rest/3.1.Elaboracion_del_API/openwebinar_mavel/app-rest-api/src/main/java/openwebinar/marvel/app/resources/AvengerController.java

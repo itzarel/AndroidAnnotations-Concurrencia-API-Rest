@@ -1,0 +1,26 @@
+SECCIÓN: Introducción a AndroidAnnotations - Tiempo Estimado (10 minutos)
+	CLASE: Recapitulación de las anotaciones explicadas en P1
+	CLASE: Recapitulación de las anotaciones explicadas en P2
+	CLASE: Explicación de las secciones a continuación
+
+SECCIÓN: Concurrencia - Tiempo Estimado (40 minutos)
+	CLASE: Anotación Background
+	CLASE: Anotación UiThread
+	PRÁCTICA: Búsqueda de enesimo número primo y en paralelo cálculo de Fibonacci. Mostrar resultado en paralelo
+
+SECCIÓN: API Rest - Tiempo Estimado (130 minutos)
+	CLASE: Elaboración del API (Java Spring boot)
+	CLASE: Anotación Rest
+	CLASE: Anotación RestService
+	CLASE: Anotación Get
+	CLASE: Anotación Post
+	CLASE: Anotación Put
+	CLASE: Anotación Delete
+PRACTICA FINAL - Tiempo Estimado (30 minutos)
+	Elaboración de app que consuma una API completa (se deberá tener en cuenta el bloqueo de la UI, es decir Background & UiThread).
+
+SECCIÓN: Recapitulación anotaciones - Tiempo Estimado (20 minutos)
+
+SECCIÓN: Conclusión - Tiempo Estimado (20 minutos)
+	REMINDER: Recapitulación curso anterior (Parte1)
+	REMINDER: Recapitulación curso anterior (Parte2)

@@ -1,0 +1,8 @@
+openwebinar/marvel/app/repositories/AvengerRepository.class
+openwebinar/marvel/app/domain/Avenger.class
+openwebinar/marvel/app/dto/AvengerDTO.class
+openwebinar/marvel/app/resources/AvengerController$1.class
+openwebinar/marvel/app/services/AvengerService.class
+openwebinar/marvel/app/services/AvengerServiceImpl.class
+openwebinar/marvel/app/MyApiRestApplication.class
+openwebinar/marvel/app/resources/AvengerController.class

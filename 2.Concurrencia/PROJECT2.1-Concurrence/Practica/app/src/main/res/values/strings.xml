@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimeAndFibonacci</string>
+
+    <string name="on_progress">Performing calculation…</string>
+
+    <string name="only_natural_numbers">Only natural numbers</string>
+    <string name="prime_number">: is prime number. Good election!</string>
+    <string name="no_prime_number">: isn\'t prime number. Try again</string>
+
+    <string name="fibonacci_succession">Fibonacci succession: </string>
+</resources>

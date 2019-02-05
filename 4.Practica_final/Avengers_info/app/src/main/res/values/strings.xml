@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Avengers</string>
+    <string name="app_name_sp">Vengadores</string>
+
+    <string name="ib_next">next</string>
+    <string name="ib_back">back</string>
+
+    <string name="b_1">#1</string>
+    <string name="b_2">#2</string>
+    <string name="b_3">#3</string>
+    <string name="b_4">#4</string>
+    <string name="b_5">#5</string>
+
+    <string name="b_select_en">EN</string>
+    <string name="b_select_en_sp">IN</string>
+    <string name="b_select_sp">SP</string>
+    <string name="b_select_sp_sp">ES</string>
+</resources>
