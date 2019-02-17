@@ -2,7 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.openwebinar.myrestapplication">
 
+    <!-- Permiso de acceso a Internet!!!!!!!!!!!!!!!!!!!!!!!!! -->
     <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Permiso de acceso a Internet!!!!!!!!!!!!!!!!!!!!!!!!! -->
 
     <application
         android:networkSecurityConfig="@xml/network_security_config"

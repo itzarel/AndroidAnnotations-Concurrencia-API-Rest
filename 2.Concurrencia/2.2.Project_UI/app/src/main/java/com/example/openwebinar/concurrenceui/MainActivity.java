@@ -31,6 +31,11 @@ public class MainActivity extends AppCompatActivity {
 
     @Background
     void initForUIBackground() {
+//        try {
+//            sleep(6000);
+//        } catch (InterruptedException e) {
+//            e.printStackTrace();
+//        }
         updateTheUIUiThread("Starting process...");
     }
 

@@ -95,32 +95,32 @@ public class MainActivity extends AppCompatActivity {
         Log.i("iAmTheKillerBackground", INIT_COMMENT + "Sayonara baby 8D");
     }
 
-    @Background(serial = "serial_example")
+    @Background//(serial = "serial_example")
     void serial1Background() {
         Log.i("serial1Background","I should be the first");
     }
 
-    @Background(serial = "serial_example")
+    @Background//(serial = "serial_example")
     void serial2Background() {
         Log.i("serial2Background","I am the second");
     }
 
-    @Background(serial = "serial_example")
+    @Background//(serial = "serial_example")
     void serial3Background() {
         Log.i("serial3Background","Third one");
     }
 
-    @Background(serial = "serial_example")
+    @Background//(serial = "serial_example")
     void serial4Background() {
         Log.i("serial4Background","I will be the fourth");
     }
 
-    @Background(serial = "serial_example")
+    @Background//(serial = "serial_example")
     void serial5Background() {
         Log.i("serial5Background","I'm the fith");
     }
 
-    @Background(serial = "serial_example")
+    @Background//(serial = "serial_example")
     void serial6Background() {
         Log.i("serial6Background","Sixth, dude!");
     }

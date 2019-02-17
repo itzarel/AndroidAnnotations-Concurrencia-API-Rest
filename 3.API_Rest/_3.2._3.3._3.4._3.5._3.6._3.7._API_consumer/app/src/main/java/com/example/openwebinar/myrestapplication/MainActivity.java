@@ -11,8 +11,6 @@ import org.androidannotations.annotations.Background;
 import org.androidannotations.annotations.EActivity;
 import org.androidannotations.rest.spring.annotations.RestService;
 
-import java.util.List;
-
 
 @SuppressLint("Registered")
 @EActivity(R.layout.activity_main)
@@ -29,12 +27,6 @@ public class MainActivity extends AppCompatActivity {
         addNewAvenger();
         changeAvenger();
         deleteAvenger();
-    }
-
-    @Background
-    void gAll() {
-        List<Avenger> all = restClient.getAll();
-        System.out.println(all);
     }
 
     @Background
