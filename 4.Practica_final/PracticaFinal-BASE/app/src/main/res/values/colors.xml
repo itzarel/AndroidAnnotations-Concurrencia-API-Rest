@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- https://color.adobe.com/es/Iron-Man-Legacy-color-theme-1733248/ -->
+    <color name="iron_man_1">#FF4A1011</color>
+    <color name="iron_man_2">#FF7C2018</color>
+    <color name="iron_man_3">#FFD44942</color>
+    <color name="iron_man_4">#FFE4DE54</color>
+    <color name="iron_man_5">#FFA96F2D</color>
+    <array name="iron_man_colors">
+        <item>@color/iron_man_1</item>
+        <item>@color/iron_man_2</item>
+        <item>@color/iron_man_3</item>
+        <item>@color/iron_man_4</item>
+        <item>@color/iron_man_5</item>
+    </array>
+
+    <!-- https://color.adobe.com/es/Black-Widow-color-theme-10522171/ -->
+    <color name="viuda_negra_1">#FF2D3D5C</color>
+    <color name="viuda_negra_2">#FF450000</color>
+    <color name="viuda_negra_3">#FF000000</color>
+    <color name="viuda_negra_4">#FF636162</color>
+    <color name="viuda_negra_5">#FF00091C</color>
+    <array name="viuda_negra_colors">
+        <item>@color/viuda_negra_1</item>
+        <item>@color/viuda_negra_2</item>
+        <item>@color/viuda_negra_3</item>
+        <item>@color/viuda_negra_4</item>
+        <item>@color/viuda_negra_5</item>
+    </array>
+
+    <!-- https://color.adobe.com/es/Captain-America-color-theme-7645795/ -->
+    <color name="capitan_america_1">#FF114FD9</color>
+    <color name="capitan_america_2">#FF3B7DA4</color>
+    <color name="capitan_america_3">#FFF4F4F3</color>
+    <color name="capitan_america_4">#FFFF0000</color>
+    <color name="capitan_america_5">#FF8B1A22</color>
+    <array name="capitan_america_colors">
+        <item>@color/capitan_america_1</item>
+        <item>@color/capitan_america_2</item>
+        <item>@color/capitan_america_3</item>
+        <item>@color/capitan_america_4</item>
+        <item>@color/capitan_america_5</item>
+    </array>
+
+    <!-- https://color.adobe.com/es/Thor-Ragnarok-color-theme-10634753/ -->
+    <color name="thor_1">#FF264F73</color>
+    <color name="thor_2">#FF04C4D9</color>
+    <color name="thor_3">#FF03A61C</color>
+    <color name="thor_4">#FFA64F03</color>
+    <color name="thor_5">#FFA61717</color>
+    <array name="thor_colors">
+        <item>@color/thor_1</item>
+        <item>@color/thor_2</item>
+        <item>@color/thor_3</item>
+        <item>@color/thor_4</item>
+        <item>@color/thor_5</item>
+    </array>
+
+    <!-- https://color.adobe.com/es/Hulk-color-theme-7403999/ -->
+    <color name="hulk_1">#FF022601</color>
+    <color name="hulk_2">#FF0ABF04</color>
+    <color name="hulk_3">#FF09A603</color>
+    <color name="hulk_4">#FF055902</color>
+    <color name="hulk_5">#FF010D00</color>
+    <array name="hulk_colors">
+        <item>@color/hulk_1</item>
+        <item>@color/hulk_2</item>
+        <item>@color/hulk_3</item>
+        <item>@color/hulk_4</item>
+        <item>@color/hulk_5</item>
+    </array>
+
+    <!-- https://color.adobe.com/es/spiderman-color-theme-2300604/ -->
+    <color name="sprider_man_1">#FFA6242F</color>
+    <color name="sprider_man_2">#FF344973</color>
+    <color name="sprider_man_3">#FF32A9D9</color>
+    <color name="sprider_man_4">#FF30BAD9</color>
+    <color name="sprider_man_5">#FFD92B2B</color>
+    <array name="sprider_man_colors">
+        <item>@color/sprider_man_1</item>
+        <item>@color/sprider_man_2</item>
+        <item>@color/sprider_man_3</item>
+        <item>@color/sprider_man_4</item>
+        <item>@color/sprider_man_5</item>
+    </array>
+
+</resources>

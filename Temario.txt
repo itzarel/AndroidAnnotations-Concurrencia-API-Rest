@@ -5,19 +5,36 @@ SECCIÓN: Introducción a AndroidAnnotations - Tiempo Estimado (10 minutos)
 
 SECCIÓN: Concurrencia - Tiempo Estimado (40 minutos)
 	CLASE: Anotación Background
+	CLASE: Anotación Background con Id
+	CLASE: Anotación Background con Serial
+	CLASE: Anotación Background con Delay
 	CLASE: Anotación UiThread
+	CLASE: Anotación UiThread con Delay
+	CLASE: Anotación UiThread con Propagation
 	PRÁCTICA: Búsqueda de enesimo número primo y en paralelo cálculo de Fibonacci. Mostrar resultado en paralelo
 
 SECCIÓN: API Rest - Tiempo Estimado (130 minutos)
-	CLASE: Elaboración del API (Java Spring boot)
+	CLASE: Elaboración del API (Java Spring boot) - Arquitectura básica
+	CLASE: Elaboración del API (Java Spring boot) - Controlador
+	CLASE: Elaboración del API (Java Spring boot) - Pruebas
+	CLASE: Configuración del entorno
 	CLASE: Anotación Rest
-	CLASE: Anotación RestService
 	CLASE: Anotación Get
 	CLASE: Anotación Post
 	CLASE: Anotación Put
 	CLASE: Anotación Delete
+	CLASE: Anotación RestService
+	CLASE: Prueba
 PRACTICA FINAL - Tiempo Estimado (30 minutos)
 	Elaboración de app que consuma una API completa (se deberá tener en cuenta el bloqueo de la UI, es decir Background & UiThread).
+	CLASE: Explicación práctica
+	CLASE: Cliente API REST
+	CLASE: Beans
+	CLASE: Capa recover info
+	CLASE: CustomView
+	CLASE: Botones de operación
+	CLASE: Main Activity
+	CLASE: Ejecución
 
 SECCIÓN: Recapitulación anotaciones - Tiempo Estimado (20 minutos)
 

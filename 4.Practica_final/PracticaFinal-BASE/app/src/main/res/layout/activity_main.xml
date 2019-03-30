@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/appbar_padding_top"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_weight="1"
+            android:background="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:title="@string/app_name">
+
+            <Button
+                android:id="@+id/b_spanish_change"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Small"
+                android:layout_gravity="end"
+                android:layout_weight="1"
+                android:text="@string/b_select_sp" />
+
+            <Button
+                android:id="@+id/b_english_change"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Small"
+                android:layout_gravity="end"
+                android:layout_weight="1"
+                android:text="@string/b_select_en" />
+        </android.support.v7.widget.Toolbar>
+
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <com.example.openwebinar.avengersinfo.views.CustomView_
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="25dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <ImageButton
+        android:id="@+id/ib_next"
+        android:layout_width="51dp"
+        android:layout_height="51dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="@string/ib_next"
+        android:rotation="-90"
+        app:layout_anchor="@+id/container"
+        app:layout_anchorGravity="right|center"
+        app:srcCompat="@android:drawable/arrow_down_float" />
+
+    <ImageButton
+        android:id="@+id/ib_back"
+        android:layout_width="51dp"
+        android:layout_height="51dp"
+        android:contentDescription="@string/ib_back"
+        android:rotation="90"
+        app:layout_anchor="@+id/container"
+        app:layout_anchorGravity="left|center"
+        android:background="#00FFFFFF"
+        app:srcCompat="@android:drawable/arrow_down_float" />
+
+</android.support.design.widget.CoordinatorLayout>

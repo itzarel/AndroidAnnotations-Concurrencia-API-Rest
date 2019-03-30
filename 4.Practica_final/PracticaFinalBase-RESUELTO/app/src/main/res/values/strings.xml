@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Avengers</string>
+    <string name="app_name_sp">Vengadores</string>
+
+    <string name="ib_next">next</string>
+    <string name="ib_back">back</string>
+
+    <string name="b_1">#1</string>
+    <string name="b_2">#2</string>
+    <string name="b_3">#3</string>
+    <string name="b_4">#4</string>
+    <string name="b_5">#5</string>
+
+    <string name="b_select_en">EN</string>
+    <string name="b_select_en_sp">IN</string>
+    <string name="b_select_sp">SP</string>
+    <string name="b_select_sp_sp">ES</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="iron_man">Iron Man</string>
+    <string name="iron_man_actor">Robert Downey Jr.</string>
+    <string name="iron_man_desc">Iron Man (Anthony Edward "Tony" Stark) is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby…</string>
+    <string name="iron_man_desc_sp">Iron Man (en español El hombre de hierro), es un superhéroe de Marvel Comics. Tras el apodo se encuentra el famoso multimillonario Anthony Edward Stark, más conocido como Tony Stark…</string>
+
+
+    <string name="viuda_negra">Black Widow</string>
+    <string name="viuda_negra_sp">Viuda Negra</string>
+    <string name="viuda_negra_actor">Scarlett Johansson</string>
+    <string name="viuda_negra_desc">Natalia Alianovna Romanova[1] (Russian: Наталья Альяновна "Наташа" Романова; alias: Natasha Romanoff; Russian: Наташа Романофф), colloquial: Black Widow (Russian: Чёрная Вдова; transliterated Chyornaya Vdova) is a fictional superhero appearing in American comic books published by Marvel Comics…</string>
+    <string name="viuda_negra_desc_sp">Natalia Alianovna Romanova,1​(Ruso: Наталья Альяновна "Наташа" Романова; alias: Natasha Romanoff; Ruso: Наташа Романофф), coloquial: Viuda Negra (en inglés: Black Widow) (en ruso: Чёрная Вдова; transcrito Chyornaya Vdova) es una superheroína ficticia que aparece en el cómic estadounidense y libros publicados por Marvel Comics…</string>
+
+    <string name="capitan_america">American Captain</string>
+    <string name="capitan_america_sp">Capitán América</string>
+    <string name="capitan_america_actor">Chris Evans</string>
+    <string name="capitan_america_desc">Captain America (Steve Rogers) is a fictional superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby, the character first appeared in Captain America Comics #1 (cover dated March 1941) from Timely Comics, a predecessor of Marvel Comics…</string>
+    <string name="capitan_america_desc_sp">Capitán América (en inglés Captain America), cuyo nombre real es Steven Grant Rogers, mejor conocido como Steve Rogers, es un superhéroe y justiciero ficticio que aparece en cómics estadounidenses publicados por Marvel Comics. Creado por los historietistas Joe Simon y Jack Kirby, el personaje apareció por primera vez en Captain America Comics #1 (marzo de 1941) de Timely Comics, predecesor de Marvel Comics…</string>
+
+    <string name="thor">Thor</string>
+    <string name="thor_actor">Chris Hemsworth</string>
+    <string name="thor_desc">In Germanic mythology, Thor is a hammer-wielding god associated with thunder, lightning, storms, oak trees, strength, the protection of mankind, and also hallowing and fertility. Besides Old Norse Þórr, extensions of the god occur in Old English as Þunor, and in Old High German as Donar…</string>
+    <string name="thor_desc_sp">Thor es el dios del trueno y fuerza en la mitología nórdica y germánica. Su papel es complejo ya que tenía influencia en áreas muy diferentes, tales como el clima, las cosechas, la protección, la consagración, la justicia, las lidias, los viajes y las batallas…</string>
+
+    <string name="hulk">Hulk</string>
+    <string name="hulk_actor">Mark Ruffalo</string>
+    <string name="hulk_desc">The Hulk is a fictional superhero appearing in publications by the American publisher Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962)…</string>
+    <string name="hulk_desc_sp">Hulk es un personaje ficticio, un superhéroe que aparece en los cómics estadounidenses publicados por la editorial Marvel Comics. El personaje fue creado por los escritores Stan Lee y Jack Kirby siendo su primera aparición en The Incredible Hulk #1 publicado en mayo de 1962…</string>
+
+    <string name="spider_man">Spider-Man</string>
+    <string name="spider_man_actor">Tom Holland</string>
+    <string name="spider_man_desc">Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books…</string>
+    <string name="spider_man_desc_sp">Spider-Man (llamado Hombre Araña en muchas de las traducciones al español) es un superhéroe ficticio creado por los escritores y editores Stan Lee y Steve Ditko. Apareció por primera vez en el cómic de antología Amazing Fantasy # 15 (agosto de 1962) en la Edad de Plata de los cómics…</string>
+
+</resources>
